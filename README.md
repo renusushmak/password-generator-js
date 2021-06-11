@@ -1,6 +1,6 @@
 # Password Generator 
 
-Password Generator javascript which prompt for length, read user input for lower,upper, numeric and special characters and generate a random password.
+Password Generator javascript which prompt for length, read user input for lower, upper, numeric and special characters and generate a random password.
 
 add password length
 confirm lower, upper, numeric, special characters
